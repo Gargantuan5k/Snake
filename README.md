@@ -22,6 +22,7 @@
 ```
 ```
 python3 main.py (OTHER, REQUIRES PYTHON 3.6+)
+```
 
 ## Author
 
